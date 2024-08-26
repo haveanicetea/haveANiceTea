@@ -10282,6 +10282,10 @@ body > .section {
     background: rgba(0,0,0,0.24);
   }
 }
+.title {
+  font-weight: 900;
+  color: #874f41;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
@@ -10754,6 +10758,9 @@ body > .section {
   width: 100% !important;
   height: 100% !important;
 }
+.button.is-primary {
+  background-color: #e64833;
+}
 .button.is-transparent {
   color: inherit;
   background: transparent;
@@ -10762,6 +10769,7 @@ body > .section {
 .card {
   overflow: visible;
   border-radius: 0;
+  background-color: #fbe9d0;
 }
 .card + .card,
 .card + .column-right-shadow {
@@ -10776,11 +10784,17 @@ body > .section {
   border: none;
   margin-top: 0;
 }
+article a {
+  color: #fcee09;
+}
+article a:hover {
+  color: #ff7979;
+}
 article.media {
   color: #848484;
 }
 article.media a {
-  color: inherit;
+  color: #fcee09;
 }
 article.media a:hover {
   color: #fcee09;
@@ -10936,6 +10950,7 @@ a.article-nav-next span {
   white-space: normal;
 }
 .navbar-main {
+  background-color: #90aead;
   box-shadow: none;
 }
 .navbar-main .navbar-container {
@@ -10967,9 +10982,13 @@ a.article-nav-next span {
   align-items: center;
   padding: 0 0.5rem;
   margin: 1.25rem 0.25rem;
+  font-weight: 500;
 }
 .navbar-main .navbar-item.is-active {
   background-color: transparent;
+}
+.navbar-main .navbar-item:hover {
+  color: #ff7979;
 }
 @media screen and (max-width: 1087px) {
   .navbar-main .navbar-menu {
@@ -10991,6 +11010,9 @@ a.article-nav-next span {
   .container > .navbar .navbar-menu {
     margin-right: 0rem;
   }
+}
+footer.footer {
+  background-color: #90aead;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
