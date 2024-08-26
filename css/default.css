@@ -10958,6 +10958,7 @@ a.article-nav-next span {
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
 .navbar-main .navbar-end {
+  background-color: #90aead;
   align-items: stretch;
   display: flex;
   padding: 0;
@@ -11008,6 +11009,11 @@ a.article-nav-next span {
   .navbar > .container .navbar-menu,
   .container > .navbar .navbar-menu {
     margin-right: 0rem;
+  }
+}
+@media screen and (max-width: 1087px) {
+  .navbar-brand {
+    display: none;
   }
 }
 footer.footer {
