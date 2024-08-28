@@ -10799,6 +10799,9 @@ body > .section {
 .card.widget img.avatar {
   box-shadow: -2rem -2rem 0 -1.5rem #ff6347, 2rem 2rem 0 -1.5rem #ff6347;
 }
+.card.widget p.is-block {
+  padding-bottom: 10px;
+}
 article a {
   color: #fcee09;
 }
@@ -11032,7 +11035,7 @@ a.article-nav-next span {
   }
 }
 @media screen and (max-width: 1087px) {
-  .navbar-brand {
+  .navbar-item.search {
     display: none;
   }
   .navbar-start {
@@ -11739,7 +11742,7 @@ figure.highlight.foldable div.level-left {
   }
 }
 body {
-  background-image: url("../img/background.png");
+  background-image: url("../img/background.webp");
   background-size: cover;
   background-repeat: repeat-x;
   background-attachment: fixed;
