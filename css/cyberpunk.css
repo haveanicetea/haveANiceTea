@@ -10287,6 +10287,9 @@ body > .section {
   color: #ff4c2d;
   padding: 1rem 0;
 }
+a {
+  color: #fcee09;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
@@ -10969,6 +10972,19 @@ a.article-nav-next span {
 }
 .date {
   color: #fff;
+}
+.breadcrumb a {
+  color: #fcee09;
+}
+a.navbar-item:focus,
+.navbar-link:focus,
+a.navbar-item:focus-within,
+.navbar-link:focus-within,
+a.navbar-item:hover,
+.navbar-link:hover,
+a.navbar-item.is-active,
+.navbar-link.is-active {
+  color: #fcee09;
 }
 .navbar-main {
   background-color: #f3d5b0;
