@@ -11042,7 +11042,7 @@ a.navbar-item.is-active,
   }
 }
 .navbar-logo img {
-  max-height: 1.75rem;
+  max-height: 5rem;
 }
 @media screen and (min-width: 1088px) {
   .navbar > .container .navbar-menu,
@@ -11055,7 +11055,7 @@ a.navbar-item.is-active,
     display: none;
   }
   .navbar-start {
-    visibility: hidden;
+    display: none;
   }
 }
 footer.footer {
@@ -11080,7 +11080,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 1.75rem;
+  max-height: 5rem;
 }
 .pagination {
   margin-top: 1.5rem;
