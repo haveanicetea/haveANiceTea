@@ -10789,11 +10789,8 @@ a {
   margin-top: 0;
 }
 .card.widget {
-  background-color: rgba(100,100,100,0.2);
-  box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+  background: linear-gradient(to bottom right, rgba(100,100,100,0.5), #000);
   box-shadow: inset 1px 1px 0.12px rgba(255,255,255,0.4);
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(7.9px);
   color: #fff;
 }
 .card.widget .menu-label {
