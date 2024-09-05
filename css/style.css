@@ -10773,6 +10773,7 @@ a {
   overflow: visible;
   border-radius: 4px;
   background-color: #eee;
+  color: #2a2a2a;
 }
 .card + .card,
 .card + .column-right-shadow {
@@ -10845,7 +10846,7 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
