@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://havenicetea.com/saringkarn/</loc>
+    
+    <lastmod>2024-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://havenicetea.com/mnesis/</loc>
     
     <lastmod>2024-09-06</lastmod>
@@ -302,13 +311,6 @@
   </url>
   
   <url>
-    <loc>https://havenicetea.com/tags/%E7%85%99%E7%87%BB/</loc>
-    <lastmod>2024-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://havenicetea.com/tags/%E6%9D%8E%E5%AD%90/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -317,6 +319,13 @@
   
   <url>
     <loc>https://havenicetea.com/tags/%E6%A8%B9%E8%84%82/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://havenicetea.com/tags/%E7%85%99%E7%87%BB/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -456,20 +465,6 @@
   </url>
   
   <url>
-    <loc>https://havenicetea.com/tags/%E9%86%9B%E9%A6%99/</loc>
-    <lastmod>2024-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://havenicetea.com/tags/%E8%9C%82%E8%9C%9C/</loc>
-    <lastmod>2024-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://havenicetea.com/tags/%E8%98%8B%E6%9E%9C/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,7 +472,21 @@
   </url>
   
   <url>
+    <loc>https://havenicetea.com/tags/%E9%86%9B%E9%A6%99/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://havenicetea.com/tags/%E8%A5%BF%E6%99%AE/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://havenicetea.com/tags/%E8%9C%82%E8%9C%9C/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -506,6 +515,20 @@
   
   <url>
     <loc>https://havenicetea.com/tags/%E6%B2%92%E8%97%A5/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://havenicetea.com/tags/%E5%B7%A7%E5%85%8B%E5%8A%9B/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://havenicetea.com/tags/%E9%BB%83%E7%8E%89%E8%98%AD/</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
