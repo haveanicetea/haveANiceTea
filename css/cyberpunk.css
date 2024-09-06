@@ -10743,8 +10743,16 @@ a {
 .link-muted:hover {
   color: #fcee09 !important;
 }
+#btnControl {
+  display: none;
+}
+#btnControl:checked + label > .image {
+  padding-top: 77%;
+}
 .image.is-7by3 {
   padding-top: 42.8%;
+  cursor: pointer;
+  transition: padding-top 0.7s ease-out;
 }
 .image.is-7by3 img {
   bottom: 0;
